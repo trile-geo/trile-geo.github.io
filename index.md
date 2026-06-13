@@ -1,5 +1,3 @@
-# Tri Le
-
 ### Geotechnical Engineer
 
 PhD Candidate in Geotechnical Engineering at Adelaide University.
