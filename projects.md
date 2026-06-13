@@ -4,8 +4,6 @@ title: Projects
 permalink: /projects/
 ---
 
-# Projects
-
 ## DEM Simulation
 
 [View Project](/projects/dem-excavation/)
