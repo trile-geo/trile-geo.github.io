@@ -11,7 +11,7 @@ layout: default
 - BE in Civil Engineering, Ho Chi Minh City University of Technology (HCMUT), Vietnam National University
 
 ## Professional Experience
-
+- Tutor & Examiner, Advanced Soil Mechannic Course, Adelaide University, SA, Australia
 - Researcher, Geotechnical Laboratory, Kyungpook National University (Daegu, South Korea)
 - Lecturer, Industrial University of Ho Chi Minh City (IUH) (Ho Chi Minh City, Vietnam)
 - Structural Design Engineer, KT Construction (Ho Chi Minh City, Vietnam)
