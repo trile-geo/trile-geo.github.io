@@ -12,8 +12,10 @@ layout: default
 
 ## Working Experience
 
-- Lecturer, Industrial University of Ho Chi Minh City (IUH)
-- Researcher, Geotechnical Laboratory, Kyungpook National Unniversity
+- Researcher, Geotechnical Laboratory, Kyungpook National University (Daegu, South Korea)
+- Lecturer, Industrial University of Ho Chi Minh City (IUH) (Ho Chi Minh City, Vietnam)
+- Structural Design Engineer, KT Construction (Ho Chi Minh City, Vietnam)
+- Site Engineering Intern, COTECCONS (Ho Chi Minh City, Vietnam)
 
 ## Contact
 
