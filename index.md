@@ -1,16 +1,20 @@
-# Tri Le 
-  A Geotechnical Engineer
-  Welcome to my engineering portfolio.
+# Tri Le
 
-PhD Candidate , Adelaide University
-MSc in Civil (Geotechnical) Engineering, Kyungpook Nationnal University
+### Geotechnical Engineer
+
+PhD Candidate in Geotechnical Engineering at Adelaide University.
 
 ## Portfolio
 
+- [Research](/research/)
 - [Projects](/projects/)
-- [About](/about/)
 - [Publications](/publications/)
 - [CV](/cv/)
 
-### Contact
+---
+
+## Contact
+
 Email: Tri.Trung.Le@outlook.com
+
+GitHub: https://github.com/trile-geo
