@@ -1,84 +1,46 @@
 ---
-
 layout: page
 title: Deep Excavation using PLAXIS
 permalink: /projects/plaxis-deep-excavation/
---------------------------------------------
+---
 
 ## Overview
 
-This project investigates the behaviour of a deep excavation supported by a diaphragm wall system using PLAXIS 2D.
+This project presents a numerical analysis of a deep excavation system using PLAXIS 2D.
 
-The objective was to understand excavation-induced ground movements, wall deformation, and the development of internal forces during staged construction.
+The aim is to understand the behaviour of the ground and retaining structure during staged excavation, including wall deformation, ground settlement, and internal forces in the retaining wall.
 
 ## Engineering Problem
 
-Deep excavations in urban areas can induce ground settlement and retaining wall deformation, potentially affecting nearby structures and infrastructure.
+Deep excavations can cause lateral wall movements and ground settlement, especially in urban areas where nearby structures and infrastructure may be affected.
 
-This project evaluates the performance of a diaphragm wall system during excavation using finite element analysis.
+This project focuses on evaluating the response of a supported excavation system using finite element modelling.
 
 ## Software
 
-* PLAXIS 2D
-* AutoCAD
-* Excel
+- PLAXIS 2D
+- Excel
+- AutoCAD
 
 ## Modelling Approach
 
-### Geometry
+- Plane strain finite element analysis
+- Staged construction modelling
+- Mohr-Coulomb and Hardening soil models
+- Retaining wall support system
+- Excavation-induced deformation assessment
 
-* Excavation depth: 8 m
-* Diaphragm wall support system
-* Plane strain condition
+## Key Outputs
 
-### Soil Model
-
-* Mohr-Coulomb constitutive model
-* Layered soil profile
-
-### Construction Stages
-
-1. Initial stress generation
-2. Wall installation
-3. Excavation Stage 1
-4. Excavation Stage 2
-5. Final excavation stage
-
-## Results
-
-### Wall Displacement
-
-Maximum lateral wall displacement was observed near the excavation level.
-
-### Ground Settlement
-
-Ground settlement developed behind the retaining wall and increased with excavation depth.
-
-### Internal Forces
-
-The excavation process generated significant bending moments within the diaphragm wall.
+- Ground deformation pattern
+- Lateral wall displacement
+- Ground surface settlement
+- Bending moment in the retaining wall
+- Shear force distribution
 
 ## Key Learnings
 
-* Understanding of staged construction analysis in PLAXIS.
-* Interpretation of excavation-induced deformation mechanisms.
-* Evaluation of retaining wall performance under excavation loading.
-* Practical experience in geotechnical finite element modelling.
-
-## Gallery
-
-### Geometry
-
-*(Insert model geometry image here)*
-
-### Deformed Mesh
-
-*(Insert deformation contour image here)*
-
-### Wall Displacement
-
-*(Insert displacement profile here)*
-
-### Ground Settlement
-
-*(Insert settlement profile here)*
+- Developed a workflow for staged excavation modelling in PLAXIS.
+- Improved understanding of excavation-induced ground movements.
+- Practised interpretation of wall displacement, settlement, and internal force results.
+- Strengthened practical finite element modelling skills for geotechnical engineering applications.
