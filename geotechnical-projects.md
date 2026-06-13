@@ -1,9 +1,8 @@
 ---
-
 layout: page
 title: Geotechnical Engineering Projects
 permalink: /geotechnical-projects/
-----------------------------------
+---
 
 ## PLAXIS
 
