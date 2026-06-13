@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Pictures
-permalink: /pictures/
+title: gallery
+permalink: /gallery/
 ---
 
 # Pictures
