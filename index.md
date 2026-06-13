@@ -4,11 +4,11 @@ layout: default
 
 ## Education
 
-- PhD Candidate in Geotechnical Engineering, Adelaide University, Australia
+- PhD Candidate in Civil Engineering (Geotechnical Engineering), Adelaide University, Australia
 
 - MSc in Civil Engineering (Geotechnical Engineering), Kyungpook National University, South Korea
 
-- BE in Civil Engineering (Geotechnical Engineering), Ho Chi Minh City University of Technology (HCMUT), Vietnam National University
+- BE in Civil Engineering, Ho Chi Minh City University of Technology (HCMUT), Vietnam National University
 
 ## Professional Experience
 
