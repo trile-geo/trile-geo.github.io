@@ -8,8 +8,9 @@ permalink: /research-projects/
 
 Research on granular materials using the Discrete Element Method (DEM).
 
-[View Project](/projects/dem-excavation/)
+<!  [View Project](/projects/dem-excavation/)  -->
 
+<!-- nội dung cần comment -->
 ---
 
 ## Particle Shape Reconstruction
