@@ -30,7 +30,7 @@ This project focuses on evaluating the response of a supported excavation system
 - Retaining wall support system
 - Excavation-induced deformation assessment
 
-![PLAXIS Deep Excavation Model](images/plaxis-deep-excavation/plaxis_demo.png)
+![PLAXIS Deep Excavation Model](/images/plaxis-deep-excavation/plaxis_demo.png)
 
 
 ## Key Outputs
