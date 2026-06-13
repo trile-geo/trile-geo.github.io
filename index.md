@@ -11,7 +11,13 @@ Welcome to my engineering portfolio.
 ### Education
 - PhD Candidate , Adelaide University
 - MSc in Civil (Geotechnical) Engineering, Kyungpook Nationnal University
+  
+## Portfolio
 
+- [Projects](/projects/)
+- [About](/about/)
+- [Publications](/publications/)
+- [CV](/cv/)
 
 ### Contact
 
