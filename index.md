@@ -18,5 +18,3 @@ layout: default
 ## Contact
 
 Email: Tri.Trung.Le@outlook.com
-
-GitHub: https://github.com/trile-geo
