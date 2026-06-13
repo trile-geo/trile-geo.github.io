@@ -10,7 +10,7 @@ layout: default
 
 - BE in Civil Engineering (Geotechnical Engineering), Ho Chi Minh City University of Technology (HCMUT), Vietnam National University
 
-## Working Experience
+## Professional Experience
 
 - Researcher, Geotechnical Laboratory, Kyungpook National University (Daegu, South Korea)
 - Lecturer, Industrial University of Ho Chi Minh City (IUH) (Ho Chi Minh City, Vietnam)
