@@ -35,10 +35,14 @@ This project focuses on evaluating the response of a supported excavation system
 
 ## Test Equation
 
-The stress ratio is:
-$ M=q/p'
-$.
-The critical state line is:
+The stress ratio, $M$, is:
+
+$$
+M=\frac{q}{p'}
+$$
+
+The critical state line, $e_{cs}$, is:
+
 $$
 e_{cs}=\Gamma-\lambda\left(\frac{p'}{p_a}\right)^\xi
 $$
