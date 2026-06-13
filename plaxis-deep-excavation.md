@@ -33,7 +33,13 @@ This project focuses on evaluating the response of a supported excavation system
 ![PLAXIS Deep Excavation Model](/images/plaxis-deep-excavation/Plaxis_demo.png)
 *Figure 1. Finite element model of the deep excavation system developed in PLAXIS 2D.*
 
+## Test Equation
 
+The stress ratio is $M=q/p'$.
+
+$$
+e_{cs}=\Gamma-\lambda\left(\frac{p'}{p_a}\right)^\xi
+$$
 
 ## Key Outputs
 
