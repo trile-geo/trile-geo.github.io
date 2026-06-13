@@ -1,24 +1,20 @@
 # Tri Le
 
-## Geotechnical Engineer | DEM Researcher
+## Geotechnical Engineer
 
 Welcome to my engineering portfolio.
 
 ### Research Interests
-
-- Geotechnical Engineering
-- Granular Materials
-- Discrete Element Method (DEM)
+- Geomechanics and Geotechnical Engineering
 - Critical State Soil Mechanics
-- Numerical Modelling
 
-### Current Position
+### Education
+- PhD Candidate , Adelaide University
+- MSc in Civil (Geotechnical) Engineering, Kyungpook Nationnal University
 
-PhD Candidate  
-University of South Australia
 
 ### Contact
 
-Email: your-email@email.com
+Email: Tri.Trung.Le@outlook.com
 
 GitHub: https://github.com/trile-geo
