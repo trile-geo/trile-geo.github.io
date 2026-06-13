@@ -8,7 +8,7 @@ permalink: /projects/
 
 Projects related to granular materials, DEM, and numerical research.
 
-[Enter Research Projects](/research-projects/)
+[View Research Projects](/research-projects/)
 
 ---
 
@@ -16,4 +16,4 @@ Projects related to granular materials, DEM, and numerical research.
 
 Projects related to practical geotechnical engineering analyses and design.
 
-[Enter Geotechnical Engineering Projects](/geotechnical-projects/)
+[View Geotechnical Engineering Projects](/geotechnical-projects/)
