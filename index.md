@@ -7,7 +7,7 @@ PhD Candidate in Geotechnical Engineering at Adelaide University.
 - [Projects](/projects/)
 - [Publications](/publications/)
 - [CV](/cv/)
-- [Pictures](/pictures/)
+- [Gallery](/gallery/)
 ---
 
 ## Contact
