@@ -17,7 +17,7 @@ layout: default
 - Structural Design Engineer, KT Construction (Ho Chi Minh City, Vietnam)
 - Site Engineering Intern, COTECCONS (Ho Chi Minh City, Vietnam)
 
-## Professional engagement
+## Professional Engagement
 - Member, Australian Geomechanics Society.
 - Reviewer, Géotechnique (Institution of Civil Engineers, ICE).
 - Reviewer, International Journal of Pavement Research and Technology (Springer).	
