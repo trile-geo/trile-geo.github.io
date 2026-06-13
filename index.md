@@ -1,3 +1,7 @@
+---
+layout: default
+---
+
 ## Education
 
 - PhD Candidate in Geotechnical Engineering, Adelaide University, Australia
@@ -6,8 +10,10 @@
 
 - BE in Civil Engineering (Geotechnical Engineering), Ho Chi Minh City University of Technology (HCMUT), Vietnam National University
 
-## Working experience
-- IUH
+## Working Experience
+
+- Lecturer, Industrial University of Ho Chi Minh City (IUH)
+- Researcher, Geotechnical Laboratory, Kyungpook National Unniversity
 
 ## Contact
 
