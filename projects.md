@@ -1,17 +1,23 @@
+---
+layout: page
+title: Projects
+permalink: /projects/
+---
+
 # Projects
 
-## DEM Excavation Simulation
+## DEM Simulation
 
-A simplified excavation model developed using LIGGGHTS to investigate excavation forces and particle flow.
+[View Project](/projects/dem-excavation/)
 
 ---
 
 ## Particle Shape Reconstruction
 
-Micro-CT based particle shape reconstruction and DEM modelling.
+[View Project](/projects/particle-shape/)
 
 ---
 
 ## Learning PLAXIS
 
-Numerical modelling of deep excavations and retaining structures.
+[View Project](/projects/plaxis-learning/)
