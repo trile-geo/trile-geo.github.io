@@ -31,6 +31,7 @@ This project focuses on evaluating the response of a supported excavation system
 - Excavation-induced deformation assessment
 
 ![PLAXIS Deep Excavation Model](/images/plaxis-deep-excavation/Plaxis_demo.png)
+*Figure 1. Finite element model of the deep excavation system developed in PLAXIS 2D.*
 
 
 
