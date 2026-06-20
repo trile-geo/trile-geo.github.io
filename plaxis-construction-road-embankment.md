@@ -16,6 +16,7 @@ Therefore, intermediate consolidation periods are required to ensure safe constr
 During consolidation, the excess pore water pressures gradually dissipate, leading to an increase in effective stress and shear strength. 
 
 This allows the embankment construction to proceed safely to the next stage.
+
 ![A road embankment on soft soil](images/construction-a-road-embankment/road_embankment_on_soft_soil.jpg)
 
 *Figure 1. Situation of a road embankment on soft soil.*
