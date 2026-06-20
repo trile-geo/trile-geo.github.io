@@ -6,7 +6,7 @@ permalink: /geotechnical-projects/
 
 ## PLAXIS
 
-Finite element modelling for geotechnical engineering applications.
+FEM analysis: Construction of a road embankent using PLAXIS
 
 [View Project](/projects/plaxis-deep-excavation/)
 
