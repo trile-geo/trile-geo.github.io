@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Deep Excavation using PLAXIS
-permalink: /projects/plaxis-deep-excavation/
+title: Construction of A Road Embankment using PLAXIS
+permalink: /projects/plaxis-construction-road-embankment/
 ---
 
 ## Overview
