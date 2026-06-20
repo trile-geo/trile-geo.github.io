@@ -45,10 +45,13 @@ Consequently, a total of five calculation phases are required, including the ini
 
 *Figure 3. Calculation Type: Consolidation with time interval of 5 days for Phase 1.*
 
+## Phase 2: 200-day consolidation period following the first construction stage
 
+Upon completion of the first construction stage, a consolidation period begins to dissipate the excess pore water pressure induced by the embankment load in Phase 1
 
+![Phase 2: Consolidation after 1st construction](images/construction-a-road-embankment/Setting_phase_2_the_consolidation_after_1st_construction.jpg)
 
-
+*Figure 4. Consolidation after 1st construction of the embankment base*
 
 
 
