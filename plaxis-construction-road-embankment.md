@@ -39,7 +39,7 @@ Consequently, a total of five calculation phases are required, including the ini
 
 ![Phase 1: constructing the embankment base](images/construction-a-road-embankment/road_embankment_phase_1_the_base.jpg)
 
-*Figure 2. Phase 1: Construction of the embankment base.*
+*Figure 2. Construction of the embankment base (Phase 1).*
 
 
 
