@@ -27,7 +27,7 @@ The embankment construction consists of two stages: the base embankment and the 
 
 Following the first construction stage, a 200-day consolidation period is introduced to allow the dissipation of excess pore water pressures generated during construction.
 
-After the second construction stage, an additional consolidation phase is carried out to evaluate the final settlement of the embankment. 
+After the second construction stage, an additional consolidation phase is carried out to evaluate the final settlement of the embankment.
 
 In this phase, the "Minimum Excess Pore Pressure" option is selected, and a stopping criterion of |$P$-stop| = 1 kPa is specified. 
 
