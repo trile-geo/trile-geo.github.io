@@ -6,9 +6,7 @@ permalink: /projects/
 
 ## Research Projects
 
-Projects related to granular materials, DEM, and numerical research.
-
-[View Research Projects](/research-projects/)
+Projects related to granular materials, DEM, and numerical research (Updating soon !)
 
 ---
 
