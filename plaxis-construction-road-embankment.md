@@ -5,10 +5,15 @@ permalink: /projects/plaxis-construction-road-embankment/
 ---
 
 ## Overview
+*This practice was completed as part of a Bentley webinar on the use of PLAXIS, conducted during the COVID-19 pandemic in 2020*
 
-This project presents a numerical analysis of a deep excavation system using PLAXIS 2D.
+The construction of an embankment on soft soil with a high groundwater table results in an increase in pore water pressure. Due to the undrained behaviour associated with rapid construction (approximately 5 days for both the base and embankment fill stages), the effective stress remains low. Therefore, intermediate consolidation periods are required to ensure safe construction.
+During consolidation, the excess pore water pressures gradually dissipate, leading to an increase in effective stress and shear strength. This allows the embankment construction to proceed safely to the next stage.
+![A road embankment on soft soil](/images/construction-a-road-embankment/a road embankment on soft soil.jpg)
+*Figure 1. Finite element model of the deep excavation system developed in PLAXIS 2D.*
 
-The aim is to understand the behaviour of the ground and retaining structure during staged excavation, including wall deformation, ground settlement, and internal forces in the retaining wall.
+
+
 
 ## Engineering Problem
 
