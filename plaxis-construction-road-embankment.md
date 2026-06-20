@@ -41,7 +41,9 @@ Consequently, a total of five calculation phases are required, including the ini
 
 *Figure 2. Construction of the embankment base (Phase 1).*
 
+![Phase 1: Setting calculation type of constructing the embankment base](images/construction-a-road-embankment/Setting_phase_1_the_base.jpg)
 
+*Figure 3. Calculation Type: Consolidation with time interval of 5 days for Phase 1.*
 
 
 
