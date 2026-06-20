@@ -13,31 +13,16 @@ During consolidation, the excess pore water pressures gradually dissipate, leadi
 
 *Figure 1. Situation of a road embankment on soft soil.*
 
+## Construction phases in PLAXIS
+
+The embankment construction consists of two stages: the base embankment and the top embankment, each requiring 5 days to complete.
+Following the first construction stage, a 200-day consolidation period is introduced to allow the dissipation of excess pore water pressures generated during construction.
+After the second construction stage, an additional consolidation phase is carried out to evaluate the final settlement of the embankment. 
+In this phase, the "Minimum Excess Pore Pressure" option is selected, and a stopping criterion of |$P-stop$| = 1 kPa is specified. 
+The analysis continues until the excess pore water pressures have essentially dissipated throughout the soil mass.
+Consequently, a total of five calculation phases are required, including the initial phase.
 
 
-
-## Engineering Problem
-
-Deep excavations can cause lateral wall movements and ground settlement, especially in urban areas where nearby structures and infrastructure may be affected.
-
-This project focuses on evaluating the response of a supported excavation system using finite element modelling.
-
-## Software
-
-- PLAXIS 2D
-- Excel
-- AutoCAD
-
-## Modelling Approach
-
-- Plane strain finite element analysis
-- Staged construction modelling
-- Mohr-Coulomb and Hardening soil models
-- Retaining wall support system
-- Excavation-induced deformation assessment
-
-![PLAXIS Deep Excavation Model](/images/plaxis-deep-excavation/Plaxis_demo.png)
-*Figure 1. Finite element model of the deep excavation system developed in PLAXIS 2D.*
 
 ## Test Equation
 
