@@ -11,8 +11,7 @@ The construction of an embankment on soft soil with a high groundwater table res
 During consolidation, the excess pore water pressures gradually dissipate, leading to an increase in effective stress and shear strength. This allows the embankment construction to proceed safely to the next stage.
 ![A road embankment on soft soil](images/construction-a-road-embankment/road_embankment_on_soft_soil.jpg)
 
-
-*Figure 1. Finite element model of the deep excavation system developed in PLAXIS 2D.*
+*Figure 1. Situation of a road embankment on soft soil.*
 
 
 
