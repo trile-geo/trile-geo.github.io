@@ -9,7 +9,9 @@ permalink: /projects/plaxis-construction-road-embankment/
 
 The construction of an embankment on soft soil with a high groundwater table results in an increase in pore water pressure. Due to the undrained behaviour associated with rapid construction (approximately 5 days for both the base and embankment fill stages), the effective stress remains low. Therefore, intermediate consolidation periods are required to ensure safe construction.
 During consolidation, the excess pore water pressures gradually dissipate, leading to an increase in effective stress and shear strength. This allows the embankment construction to proceed safely to the next stage.
-![A road embankment on soft soil](/images/construction-a-road-embankment/a road embankment on soft soil.jpg)
+![A road embankment on soft soil](images/construction-a-road-embankment/road_embankment_on_soft_soil.jpg)
+
+
 *Figure 1. Finite element model of the deep excavation system developed in PLAXIS 2D.*
 
 
