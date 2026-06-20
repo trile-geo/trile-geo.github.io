@@ -29,10 +29,28 @@ Following the first construction stage, a 200-day consolidation period is introd
 
 After the second construction stage, an additional consolidation phase is carried out to evaluate the final settlement of the embankment.
 
-In this phase, the "Minimum Excess Pore Pressure" option is selected, and a stopping criterion of '$P$-stop = 1' kPa is specified.
+In this phase, the "Minimum Excess Pore Pressure" option is selected, and a stopping criterion of $P$-stop = 1 kPa is specified.
 
 The analysis continues until the excess pore water pressures have essentially dissipated throughout the soil mass.
 
 Consequently, a total of five calculation phases are required, including the initial phase.
 
 ## Phase 1: Construction of the embankment base
+![Phase 1: constructing the embankment base](images/construction-a-road-embankment/road_embankment_phase_1_the_base.jpg)
+
+*Figure 2. Phase 1: Construction of the embankment base.*
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
