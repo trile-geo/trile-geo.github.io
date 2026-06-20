@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Construction of A Road Embankment using PLAXIS
+title: Constructing A Road Embankment
 permalink: /projects/plaxis-construction-road-embankment/
 ---
 
