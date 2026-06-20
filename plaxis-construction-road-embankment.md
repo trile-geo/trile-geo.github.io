@@ -35,4 +35,4 @@ The analysis continues until the excess pore water pressures have essentially di
 
 Consequently, a total of five calculation phases are required, including the initial phase.
 
-##  
+## Phase 1: Construction of the embankment base
