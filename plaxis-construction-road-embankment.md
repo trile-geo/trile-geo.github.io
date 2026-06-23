@@ -65,10 +65,10 @@ Upon completion of the first construction stage, a consolidation period begins t
 
 ## Phase 4: Final consolidation to dissipate excess pore water pressure
 
-Regarding consolidation at the end of construction (EOC) using the 'Minimum excess pore water pressure' loading type: the analysis calculates up to the point where the change in excess pore water pressure reaches $Du=$ $P$_{stop} = 1 kPa 
+Regarding consolidation at the end of construction (EOC) using the 'Minimum excess pore water pressure' loading type: the analysis calculates up to the point where the change in excess pore water pressure reaches $Du=$ $P_{stop}$ = 1 kPa 
 
 * Loading type: Minimum excess pore water pressure  
-* $P$_{stop} = 1 kPa
+* $P_{stop}$ = 1 kPa
 
 ![Phase 4: Setting calculation type of final consolidation](images/construction-a-road-embankment/Phase_4_final_consolidation_excess_pore_water_pressure_dissapation.jpg)
 
