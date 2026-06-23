@@ -53,10 +53,14 @@ Upon completion of the first construction stage, a consolidation period begins t
 
 *Figure 4. Consolidation after 1st construction of the embankment base*
 
+## Phase 3: Construction of the embankment top
 
+![Phase 3: constructing the embankment top](images/construction-a-road-embankment/road_embankment_phase_3_the_top.jpg)
 
+*Figure 5. Construction of the embankment base (Phase 3).*
 
+![Phase 3: Setting calculation type of constructing the embankment top](images/construction-a-road-embankment/Setting_phase_3_the_top.jpg)
 
-
+*Figure 6. Calculation Type: Consolidation with time interval of 5 days for Phase 1.*
 
 
