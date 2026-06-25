@@ -80,3 +80,15 @@ Regarding consolidation at the end of construction (EOC) using the 'Minimum exce
 
 *Figure 7. Excess pore water pressure after the 1st construction of embankment base - Day 5*
 
+![Phase 2: Excess pore water pressure after 1st consolidation - Day 205](images/construction-a-road-embankment/Result_Phase_2_1st_Consolidation_day_205.jpg)
+
+*Figure 8. Excess pore water pressure after the 1st consolidation - Day 205*
+
+![Phase 3: Excess pore water pressure after 2nd construction - Day 210](images/construction-a-road-embankment/Result_Phase_3_Excess_pore_water_pressure_day_210.jpg)
+
+*Figure 9. Excess pore water pressure after the 2nd construction of embankment base - Day 210*
+
+![Phase 4: Excess pore water pressure after 2nd consolidation - Day 617](images/construction-a-road-embankment/Result_Phase_4_2nd_Consolidation_day_617.jpg)
+
+*Figure 10. Excess pore water pressure after the 2nd consolidation - Day 617*
+
